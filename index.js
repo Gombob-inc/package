@@ -1,9 +1,9 @@
-function shit(string) {
-    if (string == null) {
+function balls(string) {
+    if (string == null || string == '') {
         return 'no'
     } else {
         return string
     }
 }
 
-exports.shit = shit;
+exports.balls = balls;
