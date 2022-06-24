@@ -1,0 +1,17 @@
+{
+  "name": "@gombob/is",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/markos-giting/package.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/markos-giting/package/issues"
+  },
+  "homepage": "https://github.com/markos-giting/package#readme"
+}
