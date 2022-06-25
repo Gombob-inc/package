@@ -1,17 +1,20 @@
 {
-  "name": "@gombob/is",
-  "version": "1.0.2",
-  "description": "",
+  "name": "@gombob/balls",
+  "version": "1.0.3",
+  "description": "some random package that you will never use",
   "main": "index.js",
   "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/markos-giting/package.git"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Splerger",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/markos-giting/package/issues"
   },
-  "homepage": "https://github.com/markos-giting/package#readme"
+  "homepage": "https://github.com/markos-giting/package#readme",
+  "dependencies": {
+    "@icxd/nut": "1.0.0"
+  }
 }
