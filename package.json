@@ -15,6 +15,6 @@
   },
   "homepage": "https://github.com/markos-giting/package#readme",
   "dependencies": {
-    "@icxd/nut": "1.0.0"
+    "@icxd/nut": "^1.0.4"
   }
 }
