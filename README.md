@@ -1,6 +1,6 @@
-# Balls v.1.0.4
+# Balls v.1.0.8
 
-### Installation `npm i @gombob/balls`
+### Installation `'npm i @gombob/balls'`
 
 ### Usages
 ```javascript
