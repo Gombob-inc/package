@@ -1,4 +1,6 @@
-# Balls v.1.0.8
+# Balls v.1.0.9
+
+# IMPORTANT balls v.1.0.9 will not work in bash
 
 ### Installation `'npm i @gombob/balls'`
 

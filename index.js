@@ -1,9 +1,5 @@
-function balls(string) {
-    if (string == null || string == '') {
-        return 'no'
-    } else {
-        return string
-    }
+function balls() {
+    return "🍆💦🍑"
 }
 
 exports.balls = balls;
