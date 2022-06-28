@@ -1,4 +1,4 @@
-# Balls v.1.0.9
+# Balls v.1.1.1
 
 # IMPORTANT balls v.1.0.9 will not work in bash
 
@@ -6,9 +6,9 @@
 
 ### Usages
 ```javascript
-const balls = require('@gombob/is')
+const balls = require('@gombob/balls')
 
-console.log(balls.balls('ballss'))
+console.log(balls.balls())
 ```
 
 ---
