@@ -13,4 +13,4 @@ console.log(balls.balls())
 
 ---
 
-## Send me bugs on my discord at Abdulaziz al-Omari#6232
+## Send me bugs on my discord at crabkig#0889
