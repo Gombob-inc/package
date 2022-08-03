@@ -1,6 +1,6 @@
 {
   "name": "@gombob/balls",
-  "version": "1.1.3",
+  "version": "1.1.5",
   "description": "some random package that you will never use",
   "main": "index.js",
   "scripts": {},
