@@ -1,4 +1,4 @@
-# Balls v.1.1.4
+# Balls v.1.1.6
 
 # IMPORTANT balls v.1.0.9 will not work in bash
 

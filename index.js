@@ -11,7 +11,7 @@ function haa() {
 function dectectbitflip() {
     while (true) {
         if (false) {
-            return "bit flip"
+            return true
         }
     }
 }
